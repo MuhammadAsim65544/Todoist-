@@ -1,0 +1,17 @@
+{
+    "blogs":[
+        {
+            "id":1, 
+            "title":" SECCESSFULL CRISPR ",
+            "body":" Today, in scientific news, we commonly see CRISPR in the headlines. Whether that is it being used by researchers in various trials, by scientists to cure a genetic disease, or even creating drought-resistant crops, it has a range of real-world applications.To put it simply, CRISPR is a powerful tool for editing genomes, by allowing individuals to alter DNA sequences. In other words, think of a box of oranges. If one is rotten, you will remove it so it does not spread to the other oranges. So, in CRISPR, researchers will remove the defective gene to stop problems that the gene causes in the body.What? Conducted by Editas, CRISPR is used to fix a rare genetic defect called Leber Congenital Amaurosis Type 10 in the retina, which causes progressive deterioration in vision. How? Researchers edit the mutated gene, CEP290,  hoping to repair the photoreceptors' function, and restore vision to the patient.",
+            "author":"Watson Rubber"
+        },
+        {
+            "id":2, 
+            "title":" WAYS TO MAKE EGGS",
+            "body":"Easter is this Sunday and everyone loves a good egg hunt! We have put together five easy ways to make sure all the kids can join in on the fun.Helium balloons tied to the eggs on the ground will make it easier for kids to pick up. Plus, who wouldn’t want a yard filled with beautiful balloons? You can also hang your eggs from trees or the ceiling with ribbon to make them eye level height. In each egg, add a magnet to magnetize the egg. Then each child will have a pole with a magnet on the end to pick up the egg. At the end, they can trade in their magnet eggs for prizes or candy filled ones. Be sure to look out for the younger ones as you do not want them to swallow a magnet by accident!Assign a specific egg color to each child. This way they can only search for that color egg making it easier for those who may take a bit longer to pick up their eggs.This way they don’t need to put the baskets on their lap where they can fall off or spill over. Use some zip ties and attach them to their chairs.Have a specific number of eggs each kid can find. This will ensure everyone has the same number of eggs at the end. Then they can trade in for prizes or candy.",
+            "author":"Dawson Brilliant"
+        }
+    ]
+
+}

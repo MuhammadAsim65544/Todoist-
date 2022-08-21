@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');
+*{
+  margin: 0;
+  font-family: "QuickSand";
+  color: #333;
+}
+.NavBar{
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  max-width: 600px;
+  margin: 0 auto;
+  border-bottom: 1px solid #f2f2f2;
+}
+.NavBar h1{
+  color: #f1356d;
+}
+.NavBar .links{
+  margin-left: auto;
+}
+.NavBar a{
+  color: #f1356d;
+  font-size: larger;
+  margin-left: 16px;
+  text-decoration: none;
+  padding: 6px;
+}
+.NavBar a:hover{
+  color:#f1356d
+}
+.content{
+  max-width: 600px;
+  margin:40px auto;
+  padding: 20px ;
+}
+/* blogs list */
+
+.blog-prview{
+  color:blue;
+  padding: 10px 16px;
+  margin: 20px 0;
+  border-bottom: 1px solid #e41818;
+}
+.blog-prview :hover{
+  box-shadow: 1px 3px 5px rgb(228, 23, 23);
+}
+.blog-prview:h2{
+  font-size: 20px;
+  color: #f1356d;
+  margin-bottom: 8px;
+}
